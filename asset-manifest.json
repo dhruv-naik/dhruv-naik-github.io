@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/koaanstudiopage.github.io./static/css/main.5f361e03.chunk.css",
+    "main.js": "/koaanstudiopage.github.io./static/js/main.322e66eb.chunk.js",
+    "main.js.map": "/koaanstudiopage.github.io./static/js/main.322e66eb.chunk.js.map",
+    "runtime-main.js": "/koaanstudiopage.github.io./static/js/runtime-main.a27edb82.js",
+    "runtime-main.js.map": "/koaanstudiopage.github.io./static/js/runtime-main.a27edb82.js.map",
+    "static/js/2.1c802d8e.chunk.js": "/koaanstudiopage.github.io./static/js/2.1c802d8e.chunk.js",
+    "static/js/2.1c802d8e.chunk.js.map": "/koaanstudiopage.github.io./static/js/2.1c802d8e.chunk.js.map",
+    "index.html": "/koaanstudiopage.github.io./index.html",
+    "precache-manifest.dd7b379fb7d512f92e69bfdbbad33595.js": "/koaanstudiopage.github.io./precache-manifest.dd7b379fb7d512f92e69bfdbbad33595.js",
+    "service-worker.js": "/koaanstudiopage.github.io./service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/koaanstudiopage.github.io./static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.1c802d8e.chunk.js.LICENSE.txt": "/koaanstudiopage.github.io./static/js/2.1c802d8e.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/koaanstudiopage.github.io./static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a27edb82.js",
+    "static/js/2.1c802d8e.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.322e66eb.chunk.js"
+  ]
+}
